@@ -1,5 +1,9 @@
 # Article-Dropdowns
 
+This is a simple dropdown panel menu system for bootstrap, and it currently supports 1 level of nesting. 
+
+There is no custom CSS written here, just what comes out of the box with bootstrap 3.3.6
+
 Made With 
 
 https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css 
